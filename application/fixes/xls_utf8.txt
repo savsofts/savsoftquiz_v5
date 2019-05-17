@@ -1,0 +1,3 @@
+excel_reader2_helper
+line 1120 replace
+$retstr = ($asciiEncoding) ? iconv('cp1250', 'utf-8', $retstr) : $this->_encodeUTF16($retstr);
