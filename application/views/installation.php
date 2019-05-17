@@ -185,7 +185,8 @@ $groupbymode=0;
 			</div>
 			
  			<div class="form-group">	  
-					<input type="checkbox" name="tos" id="tos"> <span style="font-size:11px;">You must agree to our <a href="https://savsoftquiz.com/wp/index.php/terms-conditions-license-agreement-v2-0/" target="savsoftquiz" >Terms & Conditions</a> before installation</span><br>
+					<input type="checkbox" name="tos" id="tos"> <span style="font-size:11px;">You must agree to our 
+					<a href="https://github.com/savsofts/savsoftquiz_v5/blob/master/license.md" target="savsoftquiz" >Terms & Conditions</a> before installation</span><br>
 					<button class="btn btn-lg btn-primary btn-block" type="submit"><?php echo $this->lang->line('install_now');?></button>
 			</div>
 <!--  <input type="checkbox" name="force_write"  > <span style="font-size:11px;"> Tick if server required 777 permission to write file </span> -->
