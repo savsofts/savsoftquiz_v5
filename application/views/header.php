@@ -292,7 +292,7 @@ if(in_array('All',explode(',',$logged_in['setting']))){
            <a class="collapse-item" href="<?php echo site_url('account');?>"><?php echo $this->lang->line('account_type');?></a></a> 
            <a class="collapse-item" href="<?php echo site_url('user/custom_fields');?>"><?php echo $this->lang->line('custom_forms');?></a>  
            <a class="collapse-item" href="<?php echo site_url('payment_gateway');?>"><?php echo $this->lang->line('payment_history');?></a> 
-            <a class="collapse-item" href="<?php echo site_url('advertisment');?>"><?php echo $this->lang->line('advertisment');?></a> 
+            <a class="collapse-item" href="<?php echo site_url('payment_gateway');?>"><?php echo $this->lang->line('advertisment');?></a> 
          </div>
         </div>
       </li>

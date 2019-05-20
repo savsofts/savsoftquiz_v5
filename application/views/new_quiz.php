@@ -157,8 +157,8 @@ $(".js-example-basic-multiple").select2();
 			
 			<div class="form-group">	 
 					<label for="inputEmail" ><?php echo $this->lang->line('quiz_price');?></label> <br>
-					<input type="text" name="quiz_price" value="0" class="form-control" placeholder="<?php echo $this->lang->line('quiz_price');?>"   required >
-		
+					<input type="text" name="quiz_price" value="0" class="form-control" placeholder="<?php echo $this->lang->line('quiz_price');?>"  readonly=readonly  required >
+		<a href="<?php echo site_url('payment_gateway');?>">Enable this feature</a>
 			</div>
 
 			
