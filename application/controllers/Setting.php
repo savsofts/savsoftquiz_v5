@@ -36,7 +36,7 @@ class Setting extends CI_Controller {
 	$data['settings']=$this->Setting_model->basicSetting();
 	 
 	$this->load->view('header',$data);
-	 $this->load->view('Setting',$data);
+	 $this->load->view('setting',$data);
 	$this->load->view('footer',$data);
 		 
 	}
