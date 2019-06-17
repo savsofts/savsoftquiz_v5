@@ -881,7 +881,7 @@ foreach($questions as $qk => $question){
 		echo $this->lang->line('paragraph')."<br>";
 		echo $question['paragraph']."<hr>";
 		}
-		 echo $question['question'];?><br>
+		 echo str_replace('../../../',base_url(),str_replace('../../../../',base_url(),$question['question']));?><br>
 		
 		 <?php
 

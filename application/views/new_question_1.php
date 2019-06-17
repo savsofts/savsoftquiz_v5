@@ -96,7 +96,18 @@ if($lkey==0){
 <div class="col-lg-6">
 			<div class="form-group">	 
 					<label for="inputEmail"  ><?php echo $this->lang->line('question').' : '.$val;?></label> 
-					<textarea  name="question<?php echo $lno;?>"  class="form-control"   ></textarea>
+					<textarea  name="question<?php echo $lno;?>"  class="form-control"   ></textarea><br>
+					
+										<span style="color:red; font-size:12px;"><a href="javascript:toogleuperror();">Getting error while uploading image?</a> "The upload path does not appear to be valid"</span>
+					<div style="display:none;" id="uperror">
+					Go to 'My_Savsoft_Quiz_Folder*/editor/plugins/jbimages/' Open config.php. at line number 41 update <b>savsoftquiz_v5_enterprise</b> with <b>My_Savsoft_Quiz_Folder</b><br>
+					Note: Here My_Savsoft_Quiz_Folder is the folder name where you installed/uploaded savsoft quiz files. if its done in root folder of domain then remove 'savsoftquiz_v5_enterprise/' from path.
+					</div>
+					<script> function toogleuperror(){
+						$('#uperror').toggle();
+					}
+					</script>
+					
 			</div>
 	</div>		
  <?php 

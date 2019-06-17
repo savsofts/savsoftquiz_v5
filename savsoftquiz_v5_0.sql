@@ -843,7 +843,7 @@ CREATE TABLE `savsoft_users` (
 --
 
 INSERT INTO `savsoft_users` (`uid`, `password`, `email`, `first_name`, `last_name`, `contact_no`, `connection_key`, `gid`, `su`, `inserted_by`, `subscription_expired`, `verify_code`, `wp_user`, `registered_date`, `photo`, `user_status`, `web_token`, `android_token`, `skype_id`, `time_zone`) VALUES
-(1, 'e10adc3949ba59abbe56e057f20f883e', 'contact@savsoft.info', 'Admin', 'Admin', '1234567890', NULL, '1', 1, 0, 1776277800, 0, '', '2017-04-20 11:22:38', NULL, 'Active', 'dnwIpQWkxyA:APA91bFZLhdxZnPcNareTyHnJRikJGqaT7qh9DF4jSmyKSOq1rv6k7uwgmaQ4_K7jT3WNNUeKRdRQYsNf_OZaQZ7i5nKI_CjA6QGPwPsL5_D7ShPTtsuIwTkr0CuGx0RS7oAVNg_bImc', NULL, 'sandhu4222', 'Asia/Kolkata'),
+(1, '21232f297a57a5a743894a0e4a801fc3', 'admin@example.com', 'Admin', 'Admin', '1234567890', NULL, '1', 1, 0, 1776277800, 0, '', '2017-04-20 11:22:38', NULL, 'Active', 'dnwIpQWkxyA:APA91bFZLhdxZnPcNareTyHnJRikJGqaT7qh9DF4jSmyKSOq1rv6k7uwgmaQ4_K7jT3WNNUeKRdRQYsNf_OZaQZ7i5nKI_CjA6QGPwPsL5_D7ShPTtsuIwTkr0CuGx0RS7oAVNg_bImc', NULL, 'sandhu4222', 'Asia/Kolkata'),
 (5, 'e10adc3949ba59abbe56e057f20f883e', 'user@example.com', 'Userss', 'User', '1234567890', '123', '1', 2, 0, 2147483647, 0, '', '2017-04-20 11:22:38', NULL, 'Active', NULL, NULL, NULL, 'Asia/Kolkata'),
 (6, '21232f297a57a5a743894a0e4a801fc3', 'subadmin@example.com', 'Subadmin', 'Admin', '1234567890', NULL, '1', 1, 0, 1818873000, 0, NULL, '2017-08-24 05:50:57', NULL, 'Active', NULL, NULL, NULL, 'Asia/Kolkata'),
 (9, 'e10adc3949ba59abbe56e057f20f883e', 'user2@example.com', 'user2', 'user2', '1234567890', NULL, '1', 2, 0, 0, 0, NULL, '2017-08-25 10:20:10', NULL, 'Active', NULL, NULL, 'sandhu4222', 'Asia/Kolkata'),

@@ -174,7 +174,8 @@ foreach($questions as $qk => $question){
 		}
 		?>
 		 <?php echo $this->lang->line('question');?> <?php echo $qk+1;?>)<br>
-		 <?php echo $question['question'];
+		 <?php 
+		 echo str_replace('../../../',base_url(),str_replace('../../../../',base_url(),$question['question']));
 /* 
 // --- if unclosed HTML tags disturbing layout , use following code 		 
 $qu=str_replace('&#34;','',$question['question']);
