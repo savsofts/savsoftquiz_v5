@@ -1,5 +1,6 @@
 <?php
 ob_start();
+header('Access-Control-Allow-Origin: *');
 /* 
 * Set default time zone 
 * find supported parameter or time zones at http://php.net/manual/en/timezones.php
