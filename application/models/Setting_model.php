@@ -22,7 +22,7 @@ Class Setting_model extends CI_Model
  
  function settingTabs(){
 	 
-		$query=$this->db->query(" select count(setting_id) as setting_id, setting_group_name from savsoftquiz_setting group by setting_group_name order by order_by asc ");
+		$query=$this->db->query(" select count(setting_id) as setting_id, setting_group_name from savsoftquiz_setting group by setting_group_name   ");
 		$set=$query->result_array();
 		$setting=array();
 		foreach($set as $k => $val){
