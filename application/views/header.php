@@ -327,7 +327,32 @@ if(in_array('All',explode(',',$logged_in['setting']))){
 <?php 
 }
 ?>	  
-	  
+		<?php 
+if(in_array('All',explode(',',$logged_in['setting']))){
+?> 
+
+  <!-- Nav Item - Pages Collapse Menu -->
+      <li class="nav-item">
+        <a class="nav-link collapsed" href="#" data-toggle="collapse" data-target="#collapseLanding" aria-expanded="true" aria-controls="collapseStudy">
+          <i class="fas fa-fw fa-puzzle-piece"></i>
+          <span>Landing Page</span>
+        </a>
+        <div id="collapseLanding" class="collapse" aria-labelledby="headingPages" data-parent="#accordionSidebar">
+          <div class="bg-white py-2 collapse-inner rounded">
+          
+          <a class="collapse-item" href="<?php echo site_url('payment_gateway');?>">Menu</a>
+           
+          <a class="collapse-item" href="<?php echo site_url('payment_gateway');?>">Pages/Post</a>
+          <a class="collapse-item" href="<?php echo site_url('payment_gateway');?>">Slider</a>
+           <a class="collapse-item" href="<?php echo site_url('payment_gateway');?>">Design</a>
+         </div>
+        </div>
+      </li>
+
+
+ <?php 
+}
+?>  
 
     </ul>
     <!-- End of Sidebar -->
