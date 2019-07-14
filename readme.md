@@ -12,27 +12,20 @@ Create unlimited users and manage under group
 <br><br>
  Question Bank: <br>
 Store unlimited questions and manage under categories and levels. It support 5 types of questions
-
 <br><br>
  Quiz or Exam: <br>
 Create unlimited quizzes with various parameters, like: start-end time, duration, IP validation, web cam etc..
-
 <br><br>
  Quiz Screen: <br>
 Quiz screen is user-friendly layout with color codes of attempted, unattempted, review later and unseen questions. It also compatiable with indian examination system
-
 <br><br>
  Result or Report: <br>
 Detailed report with score obtained, percentage, percentile, categorywise report and google chart. Admin can allow users to view correct answers.
-
 <br>
-
 <br><br>
 <strong>Useful links</strong><br> 
 Online Demo: <a href="https://savsoftquiz.com/web/demo.php" target="onlindedemo">https://savsoftquiz.com/web/demo.php</a> <br> 
-
 Installation Instructions: <a href="https://savsoftquiz.com/docs/installation.php" target="sqins">https://savsoftquiz.com/docs/installation.php</a> <br><br>
-
  
 
 <strong>Enterprise version</strong><br> 
