@@ -45,7 +45,7 @@ Required any customisation or support service?<br><br>
 
 <strong>Contact us:</strong><br>
 Contact form: <a href="https://savsoftquiz.com/web/contact.php">https://savsoftquiz.com/web/contact.php</a><br>
-Whatsapp No. +91 7087830007<br><br>
+ 
 
 <strong>The MIT License</strong><br> 
 
