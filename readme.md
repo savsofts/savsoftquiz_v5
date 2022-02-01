@@ -1,3 +1,5 @@
+LATEST VERSION V6.0 has been released at https://github.com/Techkshetra/savsoftquizv6.0
+This repo will be archived on 28th Feb 2022
 
 Savsoft Quiz v5.0 is an Opern Source and Free php based web application (script) to create and manage online quiz, test, exam on your website.<br>
 <br> 
