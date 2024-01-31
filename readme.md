@@ -1,5 +1,5 @@
-LATEST VERSION V6.0 has been released at https://github.com/Techkshetra/savsoftquizv6.0
-This repo will be archived on 28th Feb 2022
+LATEST VERSION V6.0 has been released at https://github.com/Techkshetra/savsoftquizv6.0 (Date: 28th Feb 2022 )
+This repo will be archived soon
 
 Savsoft Quiz v5.0 is an Opern Source and Free php based web application (script) to create and manage online quiz, test, exam on your website.<br>
 <br> 
@@ -25,10 +25,7 @@ Quiz screen is user-friendly layout with color codes of attempted, unattempted, 
 Detailed report with score obtained, percentage, percentile, categorywise report and google chart. Admin can allow users to view correct answers.
 <br>
 <br><br>
-<strong>Useful links</strong><br> 
-Online Demo: <a href="https://savsoftquiz.com/web/demo.php" target="onlindedemo">https://savsoftquiz.com/web/demo.php</a> <br> 
-Installation Instructions: <a href="https://savsoftquiz.com/docs/installation.php" target="sqins">https://savsoftquiz.com/docs/installation.php</a> <br><br>
- 
+  
 
 <strong>Enterprise version</strong><br> 
 Website: <a href="https://savsoftquiz.com">https://savsoftquiz.com</a> <br> 
@@ -42,6 +39,7 @@ Power up with premium features like:<br>
 
 <br><br>
 
+Recomended Hosting: <a href="https://hostinger.in?REFERRALCODE=1BHARPINDER47">Hostinger.com</a>
 
 Required any customisation or support service?<br><br>
 
@@ -49,7 +47,7 @@ Required any customisation or support service?<br><br>
 Contact form: <a href="https://savsoftquiz.com/web/contact.php">https://savsoftquiz.com/web/contact.php</a><br>
  
 
-<strong>The MIT License</strong><br> 
+<strong>The MIT License</stron><br> 
 
 Copyright 2019 TechKshetra Info Solutions Pvt. Ltd<br> 
 
